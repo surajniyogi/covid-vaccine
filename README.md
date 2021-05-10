@@ -1,1 +1,1 @@
-Demo [Click Here](https://s3.console.aws.amazon.com/s3/buckets/vaccine-checker?region=ap-south-1&tab=objects).
+Demo [Click Here](http://vaccine-checker.s3-website.ap-south-1.amazonaws.com).
